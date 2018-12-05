@@ -9,6 +9,3 @@
 ## Subsystem 01:Coding through arduino and movement of bot through motor.
 ## Subsystem 02: Drawing the pattern as per the instructions given
 
-![](https://user-images.githubusercontent.com/42509999/49527735-899a1100-f8d8-11e8-94d9-403b1c50d5d4.PNG)
-### Flowchart
-![](https://user-images.githubusercontent.com/42509999/49527752-928ae280-f8d8-11e8-95b1-7aa87e8c5cb9.PNG)
