@@ -32,3 +32,4 @@ Drawing perfect sketch by hand can now be done by machines too. Here we propose 
 ![](https://user-images.githubusercontent.com/42509999/49494063-5af24b00-f884-11e8-9761-77ca561ff4cb.jpg)
 ### BLOCK DIAGRAM
 ![](https://user-images.githubusercontent.com/42509999/49494273-15824d80-f885-11e8-9028-a7c74e099bed.png)
+![](https://user-images.githubusercontent.com/42509999/49494475-ce488c80-f885-11e8-9695-fdf64ab65c93.PNG)
