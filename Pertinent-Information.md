@@ -34,3 +34,15 @@ Drawing perfect sketch by hand can now be done by machines too. Here we propose 
 ![](https://user-images.githubusercontent.com/42509999/49494273-15824d80-f885-11e8-9028-a7c74e099bed.png)
 ![](https://user-images.githubusercontent.com/42509999/49494475-ce488c80-f885-11e8-9695-fdf64ab65c93.PNG)
 ![](https://user-images.githubusercontent.com/42509999/49494589-24b5cb00-f886-11e8-8ed8-9e96501028f4.PNG)
+### REFERENCE :
+[1]. https://searchenterpriseai.techtarget.com/definition/robot
+[2]. https://www.quora.com/What-is-machine-drawing
+[3].https://www.google.com/search?q=about+drawing+machine%5C&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiu7s5g5zdAhUFpY8KHSZ0AHIQ_AUIDCgD&biw=1920&bih=974#imgrc=NMKZFv_aw3uQdM:
+[4]. https://www.robotshop.com/en/axidraw-v3-personal-writing-drawing-robot.html
+[5]. https://www.instructables.com/id/Pointillist-Painting-Robot-Arm/
+[6]. http://nevonprojects.com/automatic-sketching-machine-project/
+[7]. https://jkbrickworks.com/simple-drawing-machine/
+[8]. https://circuitdigest.com/microcontroller-projects/arduino-cnc-machine-project-code
+[9]. http://www.technologystudent.com/cam/cncman4.htm
+[10].  http://teachertomsblog.blogspot.com/2010/05/real-robots.html?m=1
+[11]. https://youtu.be/PBkwgaEli7w
