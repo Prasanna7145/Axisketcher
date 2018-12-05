@@ -27,3 +27,4 @@ Brainstorming and basic literature survey helps the design team to understand th
 ### Design a robot to draw a given shape or a pattern. The pen arm of the robot should rotate freely at all angles (360 degrees). It should be able to draw multiple sketches simultaneously. The robot should be able to hold pen/pencil of different thickness.
 # Prioritize Comparison Chart(PCC):
 Goals can be ranked in order of decreasing value of importance and hence it is user friendly, affordable and portable
+![](https://user-images.githubusercontent.com/42509999/49495476-1a490080-f889-11e8-8298-10300f53af81.PNG)
