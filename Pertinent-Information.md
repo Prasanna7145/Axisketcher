@@ -16,4 +16,4 @@ Features:
 •	TheAxidraw is an extremely versatile machine,
 •	 designed to serve a wide variety of everyday and specialized drawing and writing needs. 
 •	You can use it for almost any task that might normally be carried out with a handheld pen.
-
+![](![image](https://user-images.githubusercontent.com/42509999/49493201-2630c480-f881-11e8-8233-5a322acf368b.png))
