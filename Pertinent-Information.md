@@ -1,0 +1,5 @@
+# INTRODUCTION
+## ROBOT :
+A robot is a machine designed to execute one or more tasks automatically with speed and precision. There are as many different types of robots as there are tasks for them to perform.
+Robots that resemble humans are known as androids; however, many robots aren't built on the human model. Industrial robots, for example, are often designed to perform repetitive tasks that aren't facilitated by a human-like construction. A robot can be remotely controlled by a human operator, sometimes from a great distance. A telecoil is a complex robot that is remotely controlled by a human operator for a telepresence system, which gives that individual the sense of being on location in a remote, dangerous or alien environment and the ability to interact with it. 
+An autonomous robot acts as a stand-alone system, complete with its own computer (called the controller). The most advanced example is the smart robot, which has a built-in artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge.[1]
