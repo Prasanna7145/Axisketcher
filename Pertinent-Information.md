@@ -5,15 +5,23 @@ Robots that resemble humans are known as androids; however, many robots aren't b
 An autonomous robot acts as a stand-alone system, complete with its own computer (called the controller). The most advanced example is the smart robot, which has a built-in artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge.[1]
 ![](https://user-images.githubusercontent.com/42509999/49492967-4c099980-f880-11e8-9031-9eb35475401a.jpg)
 ### EXISTING SOLUTIONS ;
- 1.AxiDRAW
-•	Simple, modern, precise, a0nd versatile pen plotter
-•	Can write with your favourite fountain pens, permanent markers, and other writing implements
-•	Features a new, highly repairable, field-serviceable design for a long life
-•	Allows you to use your computer to produce writing that appears to be handmade
+1.AxiDRAW
+•Simple, modern, precise, a0nd versatile pen plotter
+•Can write with your favourite fountain pens, permanent markers, and other writing implements
+•Features a new, highly repairable, field-serviceable design for a long life
+•Allows you to use your computer to produce writing that appears to be handmade
 Features:
-•	highly repairable,
-•	 field-serviceable design for a long life. 
-•	TheAxidraw is an extremely versatile machine,
-•	 designed to serve a wide variety of everyday and specialized drawing and writing needs. 
-•	You can use it for almost any task that might normally be carried out with a handheld pen.
-![](![image](https://user-images.githubusercontent.com/42509999/49493201-2630c480-f881-11e8-8233-5a322acf368b.png))
+•highly repairable,
+• field-serviceable design for a long life. 
+•TheAxidraw is an extremely versatile machine,
+• designed to serve a wide variety of everyday and specialized drawing and writing needs. 
+•You can use it for almost any task that might normally be carried out with a handheld pen.
+![](https://user-images.githubusercontent.com/42509999/49493201-2630c480-f881-11e8-8233-5a322acf368b.png)
+
+2 POINTILLIST PAINTING ROBOT ARM
+.•uses a minimum number of power supplies
+•uses a minimum number of electronic components
+•uses inexpensive motors
+•has a minimal user interface
+•has easily accessible electronics
+While there are many robots that have been used to make paintings,  they often take more mechanical postures: polar plotters, delta arms, XY gantry plotters, multi-degree-of-freedom arms that paint on horizontal surfaces etc. I wanted to make an industrial-styled machine that resembled the more organic form of a traditional portrait painter using a canvas.
