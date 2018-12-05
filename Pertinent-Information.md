@@ -29,4 +29,4 @@ While there are many robots that have been used to make paintings,  they often t
 
 ### 3. AUTOMATIC SKETCHING MACHINE
 Drawing perfect sketch by hand can now be done by machines too. Here we propose an automated image sketching machine that sketches drawings similar to a real human but with a lot more accuracy. The proposed system makes use of an Arduino based circuitry that is interfaced with motors and belt based setup that is used to provide the mechanism needed by a pen to draw the sketch. The Arduino based circuit is interfaced with 2 stepper motors and one servo motor in order to transmit the movement commands as per the image fed to it. It then controls the sketching process through a well-controlled mechanism in order to achieve this task. The pen only touches the paper where a dot is to be placed is raised above the paper by the motor where not needed. This motion coupled with the x and y axis movement of the motors allows for a 2D sketching mechanism on the paper using this mechanism.
-
+![](https://user-images.githubusercontent.com/42509999/49494063-5af24b00-f884-11e8-9761-77ca561ff4cb.jpg)
