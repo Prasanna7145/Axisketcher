@@ -9,3 +9,7 @@
 ## Conceptual designs
 ### Concept 1
 ![](https://user-images.githubusercontent.com/42509999/49566821-ff8e8e80-f951-11e8-94e7-31ac4fa50d7e.jpg)
+### Concept 2
+![](https://user-images.githubusercontent.com/42509999/49566822-ff8e8e80-f951-11e8-9a1f-02e7ddc35516.jpg)
+### Concept 3
+![](https://user-images.githubusercontent.com/42509999/49566823-00272500-f952-11e8-90e0-1114dd418133.jpg)
