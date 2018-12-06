@@ -6,3 +6,5 @@ In this sprint we planned for X and Y axis movement of Bot. To achieve this firs
 ![](https://user-images.githubusercontent.com/42509999/49527735-899a1100-f8d8-11e8-94d9-403b1c50d5d4.PNG)
 ### 3D MODEL
 ![](https://user-images.githubusercontent.com/42509999/49565633-cf44f100-f94d-11e8-82a4-130d4ea672b1.PNG)
+### CIRCUIT 
+![](https://user-images.githubusercontent.com/42509999/49565915-e7694000-f94e-11e8-8a25-131fd0b4b800.PNG)
